@@ -1,0 +1,4 @@
+DocFolderPath
+DocFileName
+PdfFolderPath
+PdfFileName
